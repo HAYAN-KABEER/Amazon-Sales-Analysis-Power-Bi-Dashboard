@@ -16,10 +16,9 @@ This interactive dashboard presents key insights into Amazon sales performance, 
 - **Format:** Excel (.xlsx)
 - **Main fields:** Order ID, Product, Category, Sales, Quantity, Profit, Return, Region, Date
 
-## 📷 Sample Dashboard
-![Amazon Sales Dashboard](images/amazon_dashboard_screenshot.png)
 
-> 🖼️ *Upload your screenshot in the `/images/` folder as `amazon_dashboard_screenshot.png`*
+
+> 🖼️ *Upload your screenshot *
 
 ## 🧠 Skills Demonstrated
 - Data cleaning and shaping with Power Query
